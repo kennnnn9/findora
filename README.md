@@ -244,3 +244,4 @@ Gemini-powered shopping assistant with function calling.
 2. **Zero Price Hallucination**: AI suggestions map directly to database IDs. The UI renders pricing and stock directly from the database query result.
 3. **Privacy**: User chat history is filtered and bounded; no personal identifiable data is requested or forwarded.
 4. **Rate Protection**: Guarded by per-IP rate limiting and character count limits to keep usage within Gemini free-tier constraints.
+# findora
